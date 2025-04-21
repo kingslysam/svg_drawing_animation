@@ -11,7 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_svg: ^1.1.6
+  flutter_svg: ^2.0.10+1
   http: ^1.2.1
   vector_math: ^2.1.2
 
